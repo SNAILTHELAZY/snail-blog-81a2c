@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Snail'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      A developer who came from Hong Kong, Wishing to share the knowledge with
+      everyone
   - section_id: about
     type: section_content
     title: About
