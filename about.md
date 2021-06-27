@@ -29,7 +29,7 @@ seo:
 layout: page
 subtitle: A rookie developer who wish to build their own game
 ---
-***Snail **is a developer who live in Hong Kong. Although being a developer, Snail is lack of experiences of developing a game or web.*
+**Snail** *is a developer who live in Hong Kong. Although being a developer, Snail is lack of experiences of developing a game or web.*
 
 *They start to learn coding in 2017, as well as learning to develop a game, then learn web development after 2 years of higher diploma educations.*
 
