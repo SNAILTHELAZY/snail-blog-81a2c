@@ -14,7 +14,7 @@ layout: post
 ---
 Components is the main elements in Angular, which the application is consists of at least one component. It can be created through the following command:
 
-ng generate component \[component-name]
+`ng generate component \[component-name]
 
 A component always consists of the following:
 
