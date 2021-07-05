@@ -1,5 +1,5 @@
 ---
-title: Cheat
+title: Cheatsheet of Angular
 subtitle: lorem-ipsum
 date: '2021-07-05'
 thumb_img_alt: lorem-ipsum
