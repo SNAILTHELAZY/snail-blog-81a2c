@@ -12,9 +12,48 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## CLI Command
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### 1.Creating Project:
 
-- Lorem ipsum
-- dolor sit amet
+ng new \[project-name]
+
+### 2.Serve the project locally:
+
+ng serve
+
+This will create the server locally. If you wish to open a new window upon the completion of compiling, add the o flag after the command and the above command will become this:
+
+ng serve -o
+
+### 3.Create a new elements:
+
+ng generate \[element] \[element-name]
+
+For element, you can substitute it into the following:
+
+*   Components. It works as the same way as components in React. It defines how should this component display, logics for handling events occurred within the component, etc.
+
+*   Services. Functions does not affect the UI directly will goes there. I usually create HttpService of myself to handle request that send to the server
+
+*   Directives. It adds behaviour in the components template. You can change the templates styles or control components behaviour. For example, NgFor, NgIf are directives help structuring the templates.
+
+*   Pipes
+
+*   Classes. This is the Model of Angular's MVC approach. It defines the logics of a data entity.
+
+### 4.Running Unit Test:
+
+ng test
+
+This will run the unit test written in the .spec.ts. Which the is the components of your project.
+
+### 5.Build the project and export it:
+
+ng build
+
+This will compile the project into a bundle of HTML, CSS and JS in the dist directory.
+
+## Proxying
+
+## Syntaxes of Structural Directives
