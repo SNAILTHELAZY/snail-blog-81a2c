@@ -3,7 +3,6 @@ title: Cheatsheet of Angular
 date: '2021-07-05'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
