@@ -44,13 +44,13 @@ For element, you can substitute it into the following:
 
 ### 4.Running Unit Test:
 
-\`ng test\`
+`ng test`
 
 This will run the unit test written in the .spec.ts. Which the is the components of your project.
 
 ### 5.Build the project and export it:
 
-\`ng build\`
+`ng build`
 
 This will compile the project into a bundle of HTML, CSS and JS in the dist directory.
 
