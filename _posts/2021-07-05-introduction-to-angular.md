@@ -50,7 +50,7 @@ For installation, you must have the following:
 ## Installation
 
 To install it, just typ the following:
-npm i -g @angular/cli
+`npm i -g @angular/cli`
 You will need to add sudo if you are usig Linux and your user account does not have root permission.
 
 Ok, we have installed the Angular, then we are going through the elements in Angular in the next part.
