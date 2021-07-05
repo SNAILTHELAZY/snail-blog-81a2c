@@ -10,6 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+excerpt: 'You can find useful '
 ---
 ## CLI Command
 
