@@ -71,6 +71,7 @@ But first, you will need to prepare a proxy configuration file, it can be either
 ```
 
 2. proxying multiple paths
+
 ```js
 const PROXY_CONFIG = [
     {
