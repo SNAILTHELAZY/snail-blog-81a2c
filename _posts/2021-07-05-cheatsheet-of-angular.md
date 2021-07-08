@@ -83,6 +83,8 @@ const PROXY_CONFIG = [
 module.exports = PROXY_CONFIG;
 ```
 
+
+
 Then, you can either
 
 ## Syntaxes of Structural Directives
