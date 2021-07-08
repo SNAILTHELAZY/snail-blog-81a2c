@@ -83,7 +83,7 @@ const PROXY_CONFIG = [
 module.exports = PROXY_CONFIG;
 ```
 
-
+the file must be placed under the project files.
 
 Then, you can either
 
