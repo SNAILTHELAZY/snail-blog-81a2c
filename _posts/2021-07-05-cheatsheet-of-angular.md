@@ -100,5 +100,5 @@ For conditional, angular has ngIf and ngSwitch which render the element if the c
 
 1. ngIf
 ```html
-<>
+<li></li>
 ```
