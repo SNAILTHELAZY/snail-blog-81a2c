@@ -57,6 +57,6 @@ This will compile the project into a bundle of HTML, CSS and JS in the dist dire
 ## Proxying
 There are 2 ways to proxy your server, in case your server and the app is not at the same origin.
 
-But first, you will need to prepare a proxy configuration file, it can be either
+But first, you will need to prepare a proxy configuration file, it can be either js file or json, depending on 
 
 ## Syntaxes of Structural Directives
