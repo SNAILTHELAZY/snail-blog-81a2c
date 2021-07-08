@@ -102,6 +102,7 @@ For structural directives, there are 2 types of this kinds of directive: conditi
 For conditional, angular has ngIf and ngSwitch which render the element if the condition is true. And their syntaxes are like this:
 
 1. ngIf
+
 ```html
 <li *ngIf="danger">Danger</li>
 ```
