@@ -85,7 +85,7 @@ module.exports = PROXY_CONFIG;
 
 the file must be placed under the project files.
 
-Then, you can either use the CLI to serve it, or modify the angular.json.
+Then, you can either use the CLI proxy config option to serve it, or modify the angular.json.
 
 1. CLI
 
