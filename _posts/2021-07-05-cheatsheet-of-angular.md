@@ -96,4 +96,4 @@ You should add `"proxyConfig": "src/proxy.conf.json"` within the serve key in an
 ## Syntaxes of Built-in Structural Directives
 For structural directives, there are 2 types of this kinds of directive: conditional and repetitional.
 
-For conditional, 
+For conditional, angular has ngIf and ngSwitch
