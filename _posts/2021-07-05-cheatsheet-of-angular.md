@@ -94,4 +94,6 @@ Then, you can either use the CLI proxy config option to serve it, or modify the 
 You should add `"proxyConfig": "src/proxy.conf.json"` within the serve key in angular.json.
 
 ## Syntaxes of Structural Directives
-For structural directives, there are 2 types of this kinds of directive: conditional and recursive
+For structural directives, there are 2 types of this kinds of directive: conditional and repetitional.
+
+For conditional, 
