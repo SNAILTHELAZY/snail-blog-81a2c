@@ -16,7 +16,7 @@ excerpt: You can find useful tricks and commands in here
 
 ### 1.Creating Project:
 
-`ng new \[project-name]`
+`ng new [project-name]`
 
 ### 2.Serve the project locally:
 
@@ -28,7 +28,7 @@ This will create the server locally. If you wish to open a new window upon the c
 
 ### 3.Create a new elements:
 
-`ng generate \[element] \[element-name]`
+`ng generate [element] [element-name]`
 
 For element, you can substitute it into the following:
 
