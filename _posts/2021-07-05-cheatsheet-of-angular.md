@@ -74,6 +74,6 @@ But first, you will need to prepare a proxy configuration file, it can be either
 
 ```
 
-Then, you 
+Then, you can either
 
 ## Syntaxes of Structural Directives
