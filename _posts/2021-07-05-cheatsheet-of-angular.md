@@ -91,6 +91,6 @@ Then, you can either use the CLI proxy config option to serve it, or modify the 
 `ng serve --proxy-config proxy-file.json`
 
 2. modify the angular.json
-
+You should add `proxyConfig:`
 
 ## Syntaxes of Structural Directives
