@@ -61,7 +61,12 @@ But first, you will need to prepare a proxy configuration file, it can be either
 
 1. proxying only one path
 ```json
-
+{
+  "/api": {
+    "target": "http://localhost:3000",
+    "secure": false
+  }
+}
 ```
 
 ## Syntaxes of Structural Directives
