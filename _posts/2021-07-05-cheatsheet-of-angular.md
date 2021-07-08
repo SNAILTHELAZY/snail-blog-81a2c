@@ -59,6 +59,9 @@ There are 2 ways to proxy your server, in case your server and the app is not at
 
 But first, you will need to prepare a proxy configuration file, it can be either js file or json, depending on how many paths you have to proxy to your server:
 
-1. 
+1. proxying only one path
+```json
+
+```
 
 ## Syntaxes of Structural Directives
