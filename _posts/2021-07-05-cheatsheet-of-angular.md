@@ -55,6 +55,6 @@ This will run the unit test written in the .spec.ts. Which the is the components
 This will compile the project into a bundle of HTML, CSS and JS in the dist directory.
 
 ## Proxying
-When you wish to make request from your angular project to server which is not in the same port, domain or hosts
+When you wish to make request from your angular project to server which is not in the same port, domain or hosts. It will 
 
 ## Syntaxes of Structural Directives
