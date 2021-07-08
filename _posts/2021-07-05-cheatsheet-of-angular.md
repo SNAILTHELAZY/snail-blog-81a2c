@@ -93,7 +93,7 @@ Then, you can either use the CLI proxy config option to serve it, or modify the 
 2. modify the angular.json
 You should add `"proxyConfig": "src/proxy.conf.json"` within the serve key in angular.json.
 
-## Syntaxes of Structural Directives
+## Syntaxes of Built-in Structural Directives
 For structural directives, there are 2 types of this kinds of directive: conditional and repetitional.
 
 For conditional, 
