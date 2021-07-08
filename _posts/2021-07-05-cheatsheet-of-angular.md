@@ -90,6 +90,7 @@ the file must be placed under the project files.
 Then, you can either use the CLI proxy config option to serve it, or modify the angular.json.
 
 1. CLI
+
 `ng serve --proxy-config proxy-file.json`
 
 2. modify the angular.json
