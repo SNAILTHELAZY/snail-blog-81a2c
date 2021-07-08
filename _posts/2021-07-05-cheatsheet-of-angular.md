@@ -73,8 +73,8 @@ But first, you will need to prepare a proxy configuration file, it can be either
 ```js
 const PROXY_CONFIG = [
     {
-        context: [  "/proxy"
-        ],
+        context: 
+        ,
         target: "http://localhost:3000",
         secure: false
     }
