@@ -55,6 +55,6 @@ This will run the unit test written in the .spec.ts. Which the is the components
 This will compile the project into a bundle of HTML, CSS and JS in the dist directory.
 
 ## Proxying
-When you wish to make request from your angular project to server which is not in the same port, domain or hosts. You will receive an error about Cross Origin Resource Sharing, which you are about to request a resource which is not the same origin as your angular server.
+When you wish to make request from your angular project to server which is not in the same port, domain or hosts. 
 
 ## Syntaxes of Structural Directives
